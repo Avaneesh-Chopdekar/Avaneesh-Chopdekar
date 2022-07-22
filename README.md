@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Avaneesh-Chopdekar.
--🔍 I’m looking forward to try the new carbon programming language by Google which is currently in development.
+- 🔍 I’m looking forward to try the new carbon programming language by Google which is currently in development.
 - 👀 I’m interested in App Development and Web Development.
 - 😎 I’m also interested in Graphic Design and Video Editing.
 - 😄 For App Development, I use [Flutter](https://flutter.dev/) and [Native Android](https://developer.android.com/).
