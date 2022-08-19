@@ -2,7 +2,7 @@
 - 🔍 I’m always looking forward to try new tech.
 - 👀 I’m interested in App Development and Web Development.
 - 😎 I’m also interested in Graphic Design and Video Editing.
-- 😄 For App Development, I use [Flutter](https://flutter.dev/) and [Native Android](https://developer.android.com/).
+- 😄 For App Development, I use [Flutter](https://flutter.dev/), [React Native](https://reactnative.dev/) and [Native Android](https://developer.android.com/).
 - 🌱 For Web Development, I use [React](https://reactjs.org/), [Next](https://nextjs.org/), [Solid](https://www.solidjs.com/) and [SvelteKit](https://kit.svelte.dev/).
 
 <!---
