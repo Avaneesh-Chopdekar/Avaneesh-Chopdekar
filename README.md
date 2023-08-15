@@ -7,7 +7,7 @@ Developer and UI/UX Designer
 I am a self-taught developer. I learned web development, app development, and graphic design on YouTube. I am always willing to learn new tech.
 
 *   🌍 I'm based in Thane, Maharashtra
-*   🖥️ See my portfolio [here](http://avaneesh.vercel.app/)
+*   🖥️ See my portfolio [here](https://avaneesh.netlify.app/)
 *   🤝 I'm open to collaborating on my GitHub
 *   ⚡ I love watching anime.
 
