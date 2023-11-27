@@ -6,7 +6,7 @@ Software Developer and Student
 
 I am a self-taught developer. I learned web development, app development, and graphic design on YouTube. I am always willing to learn new tech.
 
-*   🌍 I'm based in Maharashtra, India.
+*   🌍 I'm based in India.
 *   🖥️ See my portfolio [here](https://avaneesh.netlify.app/)
 *   🤝 I'm open to collaborating on my GitHub
 *   ⚡ I love watching anime.
