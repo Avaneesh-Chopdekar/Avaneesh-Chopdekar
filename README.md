@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Avaneesh Chopdekar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Avaneesh Chopdekar
 ================================================================================================================================
 
-Software Developer and Student
+Computer Science Student
 ----------------------------
 
-I am a self-taught developer. I learned web development, app development, and graphic design on YouTube. I am always willing to learn new tech.
+I am a self-taught developer. I like to build applications that solve real world problems. I am always willing to learn new tech.
 
 *   🖥️ See my portfolio [here](https://avaneesh.netlify.app/)
 *   🤝 I'm open to collaborating on my GitHub
