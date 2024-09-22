@@ -6,7 +6,7 @@ Computer Science Student
 
 I am a self-taught developer. I like to build applications that solve real world problems. I am always willing to learn new tech.
 
-*   🖥️ See my portfolio [here](https://avaneesh.netlify.app/)
+*   🖥️ See my portfolio [here](https://avaneesh-chopdekar.netlify.app/)
 *   🤝 I'm open to collaborating on my GitHub
 *   ⚡ I love watching anime.
 
